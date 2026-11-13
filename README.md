@@ -1,5 +1,7 @@
 ﻿# 舆见 · B站评论区舆情洞察助手
 
+GitHub: https://github.com/ling113312/yujian-bilibili-insight
+
 「舆见」是一个面向中小 B 站创作者的本地评论分析工具：粘贴一条视频、动态或 BV 号，自动采集公开评论，完成清洗去重、方面级情感分析、风险研判、回复草稿和下期选题建议。
 
 项目使用 Python 标准库实现，不依赖 Gradio、Flask、FastAPI、pandas 等第三方运行时；可打包为 Windows 单文件 exe，也支持无网络、无 API Key 的演示模式。
