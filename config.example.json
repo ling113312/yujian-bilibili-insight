@@ -1,0 +1,5 @@
+{
+  "base": "https://openai.cuc.edu.cn/v1/chat/completions",
+  "model": "cuc/deepseek",
+  "key": ""
+}

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+yujian.db
+yujian.db-journal
+config.json
+*.exe
+*.log
+server.err.log
+server.out.log
+.env
+.DS_Store
+Thumbs.db
