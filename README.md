@@ -8,6 +8,10 @@ GitHub: https://github.com/ling113312/yujian-bilibili-insight
 
 ![首页](assets/screenshot-home.png)
 
+**在线演示（无需安装）：** https://ling113312.github.io/yujian-bilibili-insight/
+
+**源码仓库：** https://github.com/ling113312/yujian-bilibili-insight
+
 ## 核心能力
 
 - 采集 B 站视频、动态、BV/av 号评论，可选 Cookie、分页与楼中楼
